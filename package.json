@@ -1,0 +1,27 @@
+{
+  "name": "@goldfinger87/half-float",
+  "version": "0.1.0",
+  "description": "Utility for converting 16-bit floats",
+  "type": "module",
+  "main": "index.cjs",
+  "module": "index.esm.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.{cjs,esm,d}*"
+  ],
+  "repository": "https://github.com/junkwarrior87/half-float.git",
+  "keywords": [
+    "16-bit float",
+    "float",
+    "float16",
+    "floating-point",
+    "half-float"
+  ],
+  "author": "junkwarrior87",
+  "license": "MIT",
+  "bugs": "https://github.com/junkwarrior87/half-float/issues",
+  "homepage": "https://github.com/junkwarrior87/half-float",
+  "devDependencies": {
+    "microbundle": "^0.15.1"
+  }
+}
